@@ -1,1 +1,1 @@
- Lab-1cpp
+ Lab1.Task2.cpp
